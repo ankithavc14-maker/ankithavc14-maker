@@ -122,7 +122,7 @@ A computer-vision application for plant disease classification with confidence s
 🔗 **Live Demo:** https://leafguard77.onrender.com/
 
 ---
-# AttendAI Sync Pro 2.0
+### AttendAI Sync Pro 2.0
 
 > Full-stack AI attendance platform with face recognition, liveness-ready biometric workflows, role-based access, QR attendance, live analytics, reporting, and AI-powered insights.
 
