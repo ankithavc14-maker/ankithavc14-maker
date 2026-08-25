@@ -122,14 +122,26 @@ A computer-vision application for plant disease classification with confidence s
 🔗 **Live Demo:** https://leafguard77.onrender.com/
 
 ---
+# AttendAI Sync Pro 2.0
 
-### 📸 AttendAI Sync Pro
+> Full-stack AI attendance platform with face recognition, liveness-ready biometric workflows, role-based access, QR attendance, live analytics, reporting, and AI-powered insights.
 
-**AI Attendance System**
+🔗 **Live Demo:** https://attendai-inky.vercel.app/  
+🔗 **GitHub:** https://github.com/ankithavc14-maker/AttendAI
 
-A face-recognition attendance platform with secure check-in, analytics, reporting, and recognition-based workflows.
+---
 
-**Tech:** Python · Flask · OpenCV · face_recognition
+## 🚀 Highlights
+
+- Real face recognition with 128-D facial embeddings
+- Live attendance dashboard and analytics
+- Admin / Teacher / HOD / Student role-based access
+- QR-code attendance with expiry
+- CSV and PDF exports
+- AI attendance insights
+- Flask REST API backend
+- SQLite database
+- Mobile-responsive interface
 
 ---
 
