@@ -11,7 +11,6 @@ I enjoy turning ideas into reliable software — from **AI/ML pipelines and comp
 
 ## 🚀 What I Build
 
-```text
 AI / ML
    ├── Machine Learning
    ├── Computer Vision
@@ -182,7 +181,6 @@ A face-recognition attendance platform with secure check-in, analytics, reportin
 
 ## 💡 My Approach
 
-```text
 Idea
   ↓
 Design
